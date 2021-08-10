@@ -1,0 +1,96 @@
+header{
+      background-color: black;
+      padding: 10px;
+      box-shadow: 10px 10px 10px;
+      margin-top: 30px;
+      
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(49, 46, 46);
+    color: whitesmoke;
+}
+header button{
+    background-color: grey;
+    padding: 5px;
+;
+}
+section{
+    color: whitesmoke;
+    padding: 20px;
+    margin-top: 10px;
+    
+}
+#art2{
+    background-color: black ;
+    color: whitesmoke;
+    width: 800px;
+    padding: 20px;
+    box-shadow: 10px 10px 10px;
+    margin-top: 10px;
+
+}
+
+#art2 img{
+    height: 150px;
+    box-align: left;
+}
+#art2 h2{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.art p{
+    background-color:black 
+}
+.art{
+    float: right;
+    background-color: black;
+    width: 30%;
+    padding: 20px;
+    margin-left: 5px;
+    box-shadow: 10px 10px 10px;
+    color: whitesmoke;
+    box-shadow: black;
+}
+article{ 
+    padding: 20px
+}
+#subb img{
+    height: 200px;
+    
+}
+#subb button{
+    padding: 10px;
+    color: black;
+}
+#subb{
+    box-shadow: 10px 10px 10px;
+    width: 45%;
+    color: whitesmoke;
+    background-color: black;
+    padding: 25px
+    
+}
+#sub{
+    box-shadow: 10px 10px 10px;
+    float: right;
+    color: whitesmoke;
+    width: 45%;
+    background-color: black;
+    padding: 20px
+    
+    
+}
+#sub img{
+    height: 500px;
+}
+::placeholder{
+    font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+footer{
+    background-color: black;
+    padding: 15px;
+    text-align: right;
+}
